@@ -1,0 +1,1 @@
+This is vampiath's first git project!
